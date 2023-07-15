@@ -2,7 +2,7 @@
 
 - ☀高级前端开发工程师
 - 🌲曾就职于腾讯等多家互联网大厂
-- 📚[《linwu的算法笔记》](https://www.coding-time.cn/lc)、《现代Javascript高级教程》](https://www.coding-time.cn)、[《现代Typescript高级教程》](https://www.coding-time.cn/typescript)、[《深入浅出Dart》](https://www.coding-time.cn/dart)小册作者
+- 📚[《linwu的算法笔记》](https://www.coding-time.cn/lc)、[《现代Javascript高级教程》](https://www.coding-time.cn)、[《现代Typescript高级教程》](https://www.coding-time.cn/typescript)、[《深入浅出Dart》](https://www.coding-time.cn/dart)小册作者
 
 
 > 关注公众号获取课程代码以及最新教程和文章，也可以联系作者，获取帮助
