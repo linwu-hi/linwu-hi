@@ -15,7 +15,5 @@ My ![Visitor Count](https://profile-counter.glitch.me/linwu-hi/count.svg) visito
 
 ## 关注公众号，领取前端面试小册和图解算法小册
 
-> 关注公众号获取课程代码以及最新教程和文章，也可以联系作者，获取帮助
-
 ![](https://cdn.jsdelivr.net/gh/linwu-hi/coding-time-typescript@main/docs/.vuepress/public/assets/image/wx.png)
 
